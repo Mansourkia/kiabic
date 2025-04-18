@@ -1,2 +1,2 @@
 # kiabic
-Bootstrap icons for WordPress theme developers.
+Bootstrap icons for WordPress developers.
