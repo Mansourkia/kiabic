@@ -1,6 +1,6 @@
 # kiabic
 
-Bootstrap icons for WordPress developers.
+[Bootstrap icons](https://github.com/twbs/icons) for WordPress developers.
 
 ## Usage
 
